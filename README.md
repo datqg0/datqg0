@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @datqg0
 - 👀 I’m interested in sleeping,riding.
-- 🌱 I’m currently learning competitive programming and c++.
+- 🌱 I’m currently learning competitive programming and c++,java.
 - 📫 contact me : datqg0@gmail.com
 
 
