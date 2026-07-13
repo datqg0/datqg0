@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @datqg0
-- 👀 I’m interested in sleeping,riding.
-- 🌱 I’m currently learning competitive programming and c++,java.
-- 📫 contact me : datqg0@gmail.com
+### Hi there 👋
 
+My name is Nguyen Huu Dat, currrently a student at HAU 🇻🇳.
+This is the space that I will introduce somethings about me
 
-<!---
-datqg0/datqg0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻**Favourite programing language, Framework, Library and Engine**
+- *C#*: Unity
+- *Python*: OpenCV
+- *C++*: Competitive Programing
+- *Java* : Java Core
+
+⚔️**Favourite IDE and Text Editor**
+- Antigravity
+- Visual Studio Code
+- Sublime Text
+🛠** Tech Stack**
+
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+---
+📈 **GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datqg0&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datqg0&layout=compact)
+
+---
+📫 **Contact**
+- Email: datqg0@gmail.com
