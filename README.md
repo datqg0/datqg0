@@ -20,12 +20,5 @@ This is the space that I will introduce somethings about me
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
 ---
-📈 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datqg0&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=datqg0&layout=compact)
-
----
 📫 **Contact**
 - Email: datqg0@gmail.com
