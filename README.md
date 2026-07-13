@@ -14,7 +14,7 @@ This is the space that I will introduce somethings about me
 - Visual Studio Code
 - Sublime Text
 - 
-🛠** Tech Stack**
+🛠 **Tech Stack**
 
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
 ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp)
